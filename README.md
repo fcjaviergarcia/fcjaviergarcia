@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🫡 My name is Francisco Javier García</h1>
 <h3 align="">Higher Grade Student</h3>
 
-- 🌱 I’m currently learning **AWS and Pentesting Techniques**
+- 🌱 I’m currently learning about **AWS and Pentesting Techniques**
 
 - 📫 How to reach me **javi2005gago@gmail.com**
 
