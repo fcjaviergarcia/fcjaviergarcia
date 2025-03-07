@@ -1,6 +1,6 @@
 ![Imagen decorativa de tu perfil](https://github.com/fcjaviergarcia/fcjaviergarcia/blob/4760f702e48eaeb9bd06477b38e3c0f2a5879f11/photo.jpg)
 
-<h1 align="center">Hi 🫡 My name is Francisco Javier García</h1>
+<h1 align="center">Hi 😁 My name is Francisco Javier García</h1>
 <h3 align="">Higher Grade Student</h3>
 
 - 🌱 I’m currently learning about **Red Team and Pentesting* aiming to achieve the CPTS certifications.
