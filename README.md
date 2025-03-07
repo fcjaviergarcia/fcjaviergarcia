@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Certifications:</h3>
- <a href="https://certs.ine.com/4adfdc61-868f-42ee-be6e-a107d557e1af#acc.KO1IcQFL" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEO0mqp-5WVsQ/articleshare-shrink_800/articleshare-shrink_800/0/1722887391866?e=2147483647&v=beta&t=1F4AJo9xWGqc1KzFi5njbbPPR-e7r4laRwMI4i3_ZEk" alt="ejpt" width="40" height="40"/> </a>
+ <a href="https://certs.ine.com/4adfdc61-868f-42ee-be6e-a107d557e1af#acc.KO1IcQFL" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEO0mqp-5WVsQ/articleshare-shrink_800/articleshare-shrink_800/0/1722887391866?e=2147483647&v=beta&t=1F4AJo9xWGqc1KzFi5njbbPPR-e7r4laRwMI4i3_ZEk" alt="ejpt" width="90" height="90"/> </a>
 
 
 
