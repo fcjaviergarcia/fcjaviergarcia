@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning about **Red Team and Pentesting* aiming to achieve the CPTS certifications.
 
-- 📫 How to reach me **javi2005gago@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https:www.linkedin.com/in/jaaviimdrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jaaviimdrz" height="30" width="40" /></a>
