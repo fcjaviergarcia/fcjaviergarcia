@@ -3,7 +3,7 @@
 <h1 align="center">Hi 😁 My name is Francisco Javier García</h1>
 <h3 align="">Higher Grade Student</h3>
 
-- 🌱 I’m currently learning about **Red Team and Pentesting* aiming to achieve the CPTS certifications.
+- 🌱 I’m currently learning about *Red Team and Pentesting* aiming to achieve the CPTS certifications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
